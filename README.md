@@ -8,8 +8,8 @@ https://a360.co/3z8z0Xa
 95mm (grand_skate)
 80mm (moyen_skate)
 
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+ 
+ Tuto montage : https://youtu.be/wkK8jtfGGYM
+ <p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/wkK8jtfGGYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
