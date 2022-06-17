@@ -10,6 +10,4 @@ https://a360.co/3z8z0Xa
 
  
  Tuto montage : https://youtu.be/wkK8jtfGGYM
- <p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/wkK8jtfGGYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </p>
+
